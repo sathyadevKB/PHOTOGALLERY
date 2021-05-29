@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    
+}
+#GALLERY{
+    width: 560px;
+    height: 600px;
+    margin-left: 520px;
+    margin-right: 520px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+.container
+{
+    text-align: center;
+}
